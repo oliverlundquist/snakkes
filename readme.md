@@ -1,5 +1,7 @@
-##Snakkes.
+## Snakkes.
 ExpressJS & Socket.io exercise
+
+### To play open the url below in two separate tabs and challenge an opponent to start the game.
 
 **[demo](https://desolate-plains-6714.herokuapp.com)**
 (gameplay is not at its best since the server is dirt slow.)
